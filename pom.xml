@@ -24,7 +24,7 @@
     <dependency>
       <groupId>org.springframework</groupId>
       <artifactId>spring-webmvc</artifactId>
-      <version>5.2.2.RELEASE</version>
+      <version>5.2.3.RELEASE</version>
     </dependency>
     <!--mysql连接的jar包-->
     <dependency>
@@ -37,7 +37,7 @@
     <dependency>
       <groupId>org.springframework</groupId>
       <artifactId>spring-jdbc</artifactId>
-      <version>5.2.2.RELEASE</version>
+      <version>5.2.3.RELEASE</version>
     </dependency>
     <!--数据库连接池dbcp的jar包-->
     <dependency>
