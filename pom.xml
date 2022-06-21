@@ -30,7 +30,7 @@
     <dependency>
       <groupId>mysql</groupId>
       <artifactId>mysql-connector-java</artifactId>
-      <version>8.0.18</version>
+      <version>8.0.28</version>
     </dependency>
     <!-- SpringJDBC -->
     <!-- 注意：与当前项目使用的其它spring依赖保持相同的版本号 -->
